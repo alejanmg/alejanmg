@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Alejandra Munoz Garcia and I am a Recent Smith College Graduate with a degree in Statistical & Data Sciences and Sociology.
 
 <!--
 **alejanmg/alejanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
