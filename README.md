@@ -9,7 +9,7 @@ Some projects that I contribute to are:
 - [moderndive/moderndive](https://github.com/moderndive/moderndive): an R package used to supplement the book, "Statistical Inference via Data Science: A ModernDive into R and the Tidyverse"
 --------------------------------------
 
-Feel free to reach out to me [via email](amunozgarcia.lg@gmail.com) !
+Feel free to reach out to me [via email](mailto:amunozgarcia.lg@gmail.com) !
 
 <!--
 **alejanmg/alejanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
